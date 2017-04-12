@@ -1,0 +1,5 @@
+driverClass = com.mysql.jdbc.Driver
+jdbcUrl = jdbc:mysql://127.0.0.1:3306/jfinal_demo?characterEncoding=UTF-8&autoReconnect=true&failOverReadOnly=false
+user = root
+password = 123456
+devMode = true
